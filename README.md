@@ -13,3 +13,5 @@ it as a base for starting my template. As you can see, it is pretty similar.
 
 This code is distributed under the MIT license. For more info, read the
 [LICENSE](/LICENSE) file distributed with the source code.
+
+[credit]: http://www.latextemplates.com/template/programming-coding-assignment
