@@ -11,6 +11,3 @@
 *.fdb_latexmk
 *.fls
 *.toc
-*.bbl
-*.blg
-*.bib
